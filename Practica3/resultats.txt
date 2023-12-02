@@ -1,0 +1,3 @@
+--------laberint.txt--------
+
+Algorisme Recursiu
